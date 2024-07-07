@@ -3,3 +3,11 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {text-align: center;
+}
+nav a {padding-left: 10px; padding-right: 10px;}
+figcaption {font-size: smaller;}
+figure {text-align: center;}
+nav {text-align: center;}
+p#featured-property{width: 800px; text-align: center;}
+div{float: left; width: 25%; text-align: center; background-color: burlywood;}
